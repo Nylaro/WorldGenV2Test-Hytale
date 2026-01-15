@@ -1,0 +1,18 @@
+{
+  "Group": "Nylaro",
+  "Name": "WorldGenTest",
+  "Version": "1.0.0",
+  "Description": "Custom WorldGen Test",
+  "Authors": [
+    {
+      "Name": "Nylaro",
+      "Email": "example@example.com",
+      "Url": "https://your-url.com"
+    }
+  ],
+  "Website": "https://your-website.com",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false
+}
